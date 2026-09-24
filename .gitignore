@@ -1,0 +1,11 @@
+# Go build
+/bin
+/pkg
+/tmp
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+.orion.json
