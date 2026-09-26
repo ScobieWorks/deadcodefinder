@@ -28,6 +28,8 @@ deadcodefinder . --dry-run --fix  # Show what would be removed
 
 MIT
 
+<!-- ORION-MONETIZATION:START -->
 ## Support
 
-If this project saved you time, optional support is welcome: https://paypal.me/Damonwill
+Download the CLI and consider a small donation to support continued maintenance: https://paypal.me/Damonwill.
+<!-- ORION-MONETIZATION:END -->
